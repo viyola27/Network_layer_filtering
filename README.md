@@ -9,16 +9,9 @@ Steps:
       3. You can find the log of the attack in /var/log/suricata/eve.json and /var/log/suricata/eve.json. 
        
  Below images show log of detection for both SYN and ICMP floods
-       
  <img width="463" alt="custom rules" src="https://github.com/user-attachments/assets/7cbc1a74-2e37-4a93-8e06-c5440bd63b56" />
-
-       
  <img width="463" alt="tcp_fast log" src="https://github.com/user-attachments/assets/c4ae8805-8c57-4234-94b6-c827e9d6e6e8" />
-
-       
  <img width="463" alt="icmp_flood" src="https://github.com/user-attachments/assets/aa7a96ec-8951-4b4b-9383-7a352770b85c" />
-
-       
  <img width="463" alt="icmp_fast log" src="https://github.com/user-attachments/assets/69bc22af-08a2-4ad4-b5f7-f21e8c5944f6" />
 
 
