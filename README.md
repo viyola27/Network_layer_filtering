@@ -14,6 +14,8 @@ Steps:
  Below images show log of detection for both SYN and ICMP floods
               
   <img width="463" alt="custom rules" src="https://github.com/user-attachments/assets/7cbc1a74-2e37-4a93-8e06-c5440bd63b56" /><br>
+
+  <img width="515" alt="kali" src="https://github.com/user-attachments/assets/55761399-bf47-4a76-8152-80e22af098c5" /><br>
   
   <img width="463" alt="tcp_fast log" src="https://github.com/user-attachments/assets/c4ae8805-8c57-4234-94b6-c827e9d6e6e8" /><br>
   
