@@ -3,6 +3,8 @@
 
   Rule filtering in network security means defining rules to detect and block malicious traffic according to specific patterns. In this project we will use SYN and ICMP floods for demonstration. These rules inspect the headers and payloads to match predefined rules. Thresholding helps reduce the false positive rate by controlling how often an alert has to be triggered. For example, if 30 packets are incoming in 5 seconds then alert has to be triggered instead for raising alert for what may not be an attack. Sometimes large amount of traffic might be normal, so it is essential we understand what might be right amount to focus on actual threat.
 
+Prerequisite(already configured): pfsense, Suricata, Kali Linux
+
 Steps:
 
     1. Run the network_filter.sh file. Before that make it executable file using chmod +x network_filter.sh, then use command ./network_filter.sh to run.
